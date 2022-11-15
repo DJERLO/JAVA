@@ -1,2 +1,2 @@
-# JAVA
-Java Begineer Codes to practice my coding by myself
+# OBJECT-ORIENTED PROGRAMMING
+
